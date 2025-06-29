@@ -104,7 +104,7 @@ creator-dashboard/
  Dark mode toggle
 
 🧑‍💻 Author
-Rajat Debnath
+Rajat Debnath and team
 
 🌐 Frontend Developer | MERN Stack Enthusiast
 
